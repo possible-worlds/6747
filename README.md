@@ -1,3 +1,5 @@
+![Pasted image 20240211220342](https://github.com/possible-worlds/6747/assets/159728901/e87eec41-2973-4ff2-b8c7-2ab86ebee103)
+
 This is the Twilio app and accompanying web app that make up https://6747.possibleworlds.space.
 
 The project consists of the names and ages of the first 6,747 people killed in Israel's war on Gaza, read by the composited voice of several young Gazan men.
